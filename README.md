@@ -27,7 +27,7 @@ Evaluated overall conversion rate (~32%)
 Provided recommendations to improve conversion efficiency  
 
 📷 Dashboard Preview:
-Task3_Dashboard
+Task3_Dashboard.png
 
 📁 Files Included:
 Marketing_Funnel.pbix  
